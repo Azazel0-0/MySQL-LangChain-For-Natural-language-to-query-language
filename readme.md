@@ -13,7 +13,7 @@ The chatbot works by taking a user's natural language query, converting it into 
 
 Consider the following diagram to understand how the different chains and components are built:
 
-![Chatbot Architecture](./docs/mysql-chains.png)
+![Chatbot Architecture](./mysql-chains.png)
 
 ## Installation
 Ensure you have Python installed on your machine. Then clone this repository:
